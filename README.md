@@ -1,3 +1,5 @@
+##CIS 545 Final Project##
+
 In this project, we want to study the effect of the Industrial Revolution on the environment and economics of some major contries that involved in it. We will be looking at the Second Industrial Revolution (mid 19th century to mid 20th century), as this revolution took place in Europe, North America and some parts of Asia. Specifically, for the data analysis and exploration, we are interested in the environmental effect of the Industrial Revolution by measuring these countries' changes in average temperatures and carbon dioxide emissions. Moreover, we want to observe the economic consequences of the Industrial Revolution, indicated by GDP per capita.
 
 We will use 4 datasets for this project: GDP per capita of each country, Sea level change dataset on Kaggle, carbon dioxide emissions dataset on Kaggle, and Earth surface temperature dataset on Kaggle.
